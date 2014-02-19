@@ -32,4 +32,12 @@
         android:layout_marginTop="43dp"
         android:text="@string/Stop_Service" />
 
+    <SeekBar
+        android:id="@+id/seekBar1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/stop"
+        android:layout_marginTop="54dp" />
+
 </RelativeLayout>
